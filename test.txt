@@ -1,2 +1,1 @@
-
-only a test for delete also an modification in GIT.
+test for delete2: git checkout -- file
