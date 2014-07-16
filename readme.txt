@@ -6,3 +6,5 @@ Echo1!
 Echo2!
 Echo3!
 
+git has a mutable index called stage.
+git tracks changes.
